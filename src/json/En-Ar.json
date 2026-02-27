@@ -1,0 +1,906 @@
+{
+  "arabicNav": {
+    "items": {
+      "home": "الرئيسيه",
+      "services": "خدماتنا",
+      "works": "سابقه الأعمال",
+      "team": "فريق العمل",
+      "contact": "اتصل بنا"
+    }
+  },
+  "englishNav": {
+    "items": {
+      "home": "Home",
+      "services": "Services",
+      "works": "Projects",
+      "team": "Team Work",
+      "contact": "Contact with us"
+    }
+  },
+  "spanishNav": {
+    "items": {
+      "home": "Página principal",
+      "services": "Servicios",
+      "works": "Proyectos",
+      "team": "Trabajo en equipo",
+      "contact": "Contacta con nosotros"
+    }
+  },
+  "italianNav": {
+    "items": {
+      "home": "Home",
+      "services": "Servizi",
+      "works": "Progetti",
+      "team": "Lavoro di squadra",
+      "contact": "Contattaci"
+    }
+  },
+  "arabicMain": {
+    "heading": "تصميم المواقع الإلكترونية، تطبيقات الموبايل، والمتاجر الإلكترونية بطريقة مبتكرة وفريدة",
+    "items": {
+      "p": "منذ انطلاقنا في 2023، قمنا ببناء أكثر من 500 قصة نجاح مع عملائنا. سواء كان الموقع الإلكتروني، تطبيق الموبايل، أو المتجر الإلكتروني، نحن نحول أفكارك إلى واقع. تواصل معنا الآن وشاركنا قصتك لتكون جزءاً من هذا النجاح.",
+      "btn": "اتصل"
+    }
+  },
+  "englishMain": {
+    "heading": "Design websites, mobile apps, and electronic stores in a creative and unique way",
+    "items": {
+      "p": "Since our launch in 2023, we have built more than 500 success stories with our clients. Whether it's a website, a mobile app, or an e-commerce store, we turn your ideas into reality. Act now and share your story with us to be part of this success.",
+      "btn": "Contact"
+    }
+  },
+  "spanishMain": {
+    "heading": "Diseñamos sitios web, aplicaciones móviles y tiendas electrónicas de manera creativa y única",
+    "items": {
+      "p": "Desde nuestro lanzamiento en 2023, hemos construido más de 500 historias de éxito con nuestros clientes. Ya sea un sitio web, una aplicación móvil o una tienda electrónica, convertimos tus ideas en realidad. Actúa ahora y comparte tu historia con nosotros para ser parte de este éxito.",
+      "btn": "Contactar"
+    }
+  },
+  "italianMain": {
+    "heading": "Progettiamo siti web, app mobili e negozi elettronici in modo creativo e unico",
+    "items": {
+      "p": "Dal nostro lancio nel 2023, abbiamo costruito oltre 500 storie di successo con i nostri clienti. Che si tratti di un sito web, un'app mobile o un negozio elettronico, trasformiamo le tue idee in realtà. Agisci ora e condividi la tua storia con noi per far parte di questo successo.",
+      "btn": "Contattaci"
+    }
+  },
+  "arabicContentSec1": {
+    "heading": "ليه تختار شركتنا ؟",
+    "items": [
+      {
+        "h2": "خبرة وسابقة اعمال محترفة",
+        "p": "خبرة وسابقة اعمال محترفة",
+        "icon": "fas fa-award"
+      },
+      {
+        "h2": "تصميم فريد لكل مشروع",
+        "p": "نقوم بتنفيذ كافة تصاميم المواقع الحديثة والعصرية، وذلك لكي تكون مميز بين منافسيك.",
+        "icon": "fas fa-pen-nib"
+      },
+      {
+        "h2": "دعم فني شامل 7/24",
+        "p": "لدينا فريق مميز من موظفي الدعم الفني يمكنهم الرد عليك على مدار 24 ساعة طوال أيام الأسبوع.",
+        "icon": "fas fa-headset"
+      },
+      {
+        "h2": "تعاقد واستلم عقدك اونلاين",
+        "p": "لأننا نهتم براحة عملائنا في المقام الأول، فنحن نوفر إمكانية التعاقد أونلاين لتوفير وقتك ومجهودك.",
+        "icon": "fas fa-file-signature"
+      }
+    ]
+  },
+  "englishContentSec1": {
+    "heading": "Why choose our company?",
+    "items": [
+      {
+        "h2": "Experience and previous professional work",
+        "p": "Experience and previous professional work",
+        "icon": "fas fa-award"
+      },
+      {
+        "h2": "Unique design for every project",
+        "p": "We implement all modern and trendy website designs, in order to stand out among your competitors.",
+        "icon": "fas fa-pen-nib"
+      },
+      {
+        "h2": "Comprehensive technical support 7/24",
+        "p": "We have a distinguished team of technical support staff who can respond to you 24 hours a day, 7 days a week.",
+        "icon": "fas fa-headset"
+      },
+      {
+        "h2": "Contract and receive your contract online",
+        "p": "Because we care about the comfort of our customers first and foremost, we provide the possibility of contracting online to save your time and effort.",
+        "icon": "fas fa-file-signature"
+      }
+    ]
+  },
+  "spanishContentSec1": {
+    "heading": "Por qué elegir nuestra empresa?",
+    "items": [
+      {
+        "h2": "Experiencia y trabajo profesional previo.",
+        "p": "Experiencia y trabajo profesional previo.",
+        "icon": "fas fa-award"
+      },
+      {
+        "h2": "Diseño único para cada proyecto.",
+        "p": "Implementamos todos los diseños de sitios web modernos y de moda para destacar entre sus competidores.",
+        "icon": "fas fa-pen-nib"
+      },
+      {
+        "h2": "Soporte técnico integral 7/24",
+        "p": "Contamos con un distinguido equipo de personal de soporte técnico que puede responderle las 24 horas del día, los 7 días de la semana.",
+        "icon": "fas fa-headset"
+      },
+      {
+        "h2": "Contrata y recibe tu contrato online",
+        "p": "Porque nos preocupamos ante todo por la comodidad de nuestros clientes, te brindamos la posibilidad de contratar online para ahorrarte tiempo y esfuerzo.",
+        "icon": "fas fa-file-signature"
+      }
+    ]
+  },
+  "italianContentSec1": {
+    "heading": "Perché scegliere la nostra azienda?",
+    "items": [
+      {
+        "h2": "Esperienza e lavori professionali precedenti",
+        "p": "Esperienza e lavori professionali precedenti",
+        "icon": "fas fa-award"
+      },
+      {
+        "h2": "Design unico per ogni progetto",
+        "p": "Realizziamo tutti i design moderni e di tendenza dei siti web, per farti distinguere tra i tuoi concorrenti.",
+        "icon": "fas fa-pen-nib"
+      },
+      {
+        "h2": "Supporto tecnico completo 24/7",
+        "p": "Abbiamo un team di supporto tecnico eccellente pronto a risponderti 24 ore su 24, 7 giorni su 7.",
+        "icon": "fas fa-headset"
+      },
+      {
+        "h2": "Contratta e ricevi il tuo contratto online",
+        "p": "Poiché ci preoccupiamo prima di tutto del comfort dei nostri clienti, offriamo la possibilità di contrattare online per risparmiare tempo ed energie.",
+        "icon": "fas fa-file-signature"
+      }
+    ]
+  },
+  "arabicContentSec2": {
+    "heading": "حان الوقت لتصميم موقع إلكتروني متجاوب وفعال يعكس هوية علامتك التجارية",
+    "items": [
+      {
+        "text": "تسويق الكتروني",
+        "description": "شركتنا الاولي من نوعها فى إدارة حسابات السوشيال ميديا فى مصر",
+        "rValue": 25
+      },
+      {
+        "text": "تصميم هوية لشركتك",
+        "description": "نحن متخصصون فى تصميم هوية العلامات التجارية",
+        "rValue": 5
+      },
+      {
+        "text": "تصميم المواقع الألكترونية",
+        "description": "الموقع الالكتروني هو الخطوة الأولى لاطلاق تجارتك الالكترونية باحترافية",
+        "rValue": -15
+      }
+    ]
+  },
+  "englishContentSec2": {
+    "heading": "It's time to design a responsive and effective website that reflects your brand identity",
+    "items": [
+      {
+        "text": "Digital Marketing",
+        "description": "Our company is the first of its kind in managing social media accounts in Egypt",
+        "rValue": 25
+      },
+      {
+        "text": "Brand Identity Design",
+        "description": "We specialize in designing brand identities",
+        "rValue": 5
+      },
+      {
+        "text": "Website Design",
+        "description": "The website is the first step to professionally launch your e-commerce",
+        "rValue": -15
+      }
+    ]
+  },
+  "spanishContentSec2": {
+    "heading": "Es hora de diseñar un sitio web responsivo y eficaz que refleje la identidad de su marca.",
+    "items": [
+      {
+        "text": "Publicidad digital",
+        "description": "Nuestra empresa es la primera de su tipo en la gestión de cuentas de redes sociales en Egipto.",
+        "rValue": 25
+      },
+      {
+        "text": "Diseño de identidad de marca",
+        "description": "Nos especializamos en el diseño de identidades de marca.",
+        "rValue": 5
+      },
+      {
+        "text": "Diseño de páginas web",
+        "description": "La web es el primer paso para lanzar profesionalmente tu e-commerce",
+        "rValue": -15
+      }
+    ]
+  },
+  "italianContentSec2": {
+    "heading": "È il momento di progettare un sito web reattivo ed efficace che rifletta l'identità del tuo brand",
+    "items": [
+      {
+        "text": "Marketing Digitale",
+        "description": "La nostra azienda è la prima del suo genere nella gestione degli account social media in Egitto",
+        "rValue": 25
+      },
+      {
+        "text": "Design dell'identità del marchio",
+        "description": "Siamo specializzati nella progettazione di identità aziendali",
+        "rValue": 5
+      },
+      {
+        "text": "Progettazione di siti web",
+        "description": "Il sito web è il primo passo per lanciare professionalmente il tuo e-commerce",
+        "rValue": -15
+      }
+    ]
+  },
+  "arabicContentSec3": {
+    "heading": "منذ إطلاقتنا إلى الآن تم بناء أكثر من 500+ قصة نجاح مع عملائنا",
+    "items": [
+      {
+        "title": "موقع إلكتروني",
+        "count": 0
+      },
+      {
+        "title": "متجر إلكتروني",
+        "count": 0
+      },
+      {
+        "title": "حملة تسويقية",
+        "count": 0
+      }
+    ]
+  },
+  "englishContentSec3": {
+    "heading": "Since our launch, we have built over 500+ success stories with our clients",
+    "items": [
+      {
+        "title": "Website",
+        "count": 0
+      },
+      {
+        "title": "E-commerce Store",
+        "count": 0
+      },
+      {
+        "title": "Marketing Campaign",
+        "count": 0
+      }
+    ]
+  },
+  "spanishContentSec3": {
+    "heading": "Desde nuestro lanzamiento, hemos creado más de 500 historias de éxito con nuestros clientes.",
+    "items": [
+      {
+        "title": "Sitio web",
+        "count": 0
+      },
+      {
+        "title": "Tienda de comercio electrónico",
+        "count": 0
+      },
+      {
+        "title": "CAMPAÑA de Marketing",
+        "count": 0
+      }
+    ]
+  },
+  "italianContentSec3": {
+    "heading": "Dal nostro lancio, abbiamo costruito oltre 500 storie di successo con i nostri clienti",
+    "items": [
+      {
+        "title": "Sito Web",
+        "count": 0
+      },
+      {
+        "title": "Negozio E-commerce",
+        "count": 0
+      },
+      {
+        "title": "Campagna di Marketing",
+        "count": 0
+      }
+    ]
+  },
+  "arabicContentSec4": {
+    "heading": "المشروع لدينا يمر ب3 مراحل أساسية",
+    "linkheading": "اقرأ المزيد",
+    "items": [
+      {
+        "tip": "01",
+        "image": "./imgs/01.jpg",
+        "text": "دراسة المشروع",
+        "desc": "تحتاج الهوية التجارية في تصميمها إلى دراسة تحليلية للسوق، والمنافسين جيداً مثل دراسة جدوى لموقع الكتروني، فهي مرحلة بحثية تُمكنك من معرفة مستقبل الهوبة التجارية من خلال تحديد ودراسة السوق وكافة المنافسين وتجاربهم وكيفية نجاحهم والعقبات التي واجهوها. فهذه المرحلة تكون لفهم الأمور التي ستؤثر على العلامة التجارية ونجاحها. وهذه الخطوة بالغة الأهمية في جميع مراحل تصميم الهوية التجارية، فالانغماس في السوق سيساعدك كثيراً في فهم البيئة الخاصة بالهوية التجارية مستقبلا وما سيؤثر في نجاحها وإزدهارها.",
+        "link": "/project_study"
+      },
+      {
+        "tip": "02",
+        "image": "./imgs/02.jpg",
+        "text": "تنفيذ المشروع",
+        "desc": "لابد من العمل على تصميم الهوية التجارية مناسبة إلى فكرة مشروعك الاستثماري حيث يتم العمل على نجاح الهوية التجارية بناء على الألوان التي يتم استخدامها ويحرص فريق العمل على تصميم هوية متكاملة تتمتع بألوان مناسبة وتلفت لك الانتباه وتناسب مشروعك الاستثماري بدقة شديدة بجانب. هذا الأمر يتم التطرق إلى شكل الخطوط. والعمل على تحليله بالشكل المناسب وكذلك القدرة على اتمامه بالشكل المناسب وكذلك القدرة على تحليل أفكارك بالشكل الجانب. الذي يحقق لك نجاحًا كبيرًا. والتي تسهل عليك تقديم هوية تجارية مناسبة إلى فكرتك.",
+        "link": "/project_execution"
+      },
+      {
+        "tip": "03",
+        "image": "./imgs/03.jpg",
+        "text": "تسليم المشروع",
+        "desc": "عقب الانتهاء من كافة التعديلات التي يرغب العميل بها، نقوم بتسليم الشكل النهائي والتصور النهائية للهوية البصرية للشركات أو الهوية التجارية الكاملة وذلك بالالتزام بكافة معايير الجودة في التصميم، ومن ثم يتم البدء في استخدام مكونات الهوية التجارية وعناصرها بالاستخدام الأمثل.",
+        "link": "/handover_the_project"
+      }
+    ]
+  },
+  "englishContentSec4": {
+    "heading": "Our project goes through 3 basic stages",
+    "linkheading": "More",
+    "items": [
+      {
+        "tip": "01",
+        "image": "./imgs/01.jpg",
+        "text": "Project study",
+        "desc": "In its design, the commercial identity needs an analytical study of the market and competitors, such as a feasibility study for a website. It is a research stage that enables you to know the future of the commercial identity by identifying and studying the market and all competitors, their experiences, how they succeeded, and the obstacles they faced. This stage is to understand the issues that will affect the brand and its success. This step is extremely important in all stages of designing a commercial identity, as immersion in the market will help you greatly in understanding the environment for the commercial identity in the future and what will affect its success and prosperity.",
+        "link": "/project_study"
+      },
+      {
+        "tip": "02",
+        "image": "./imgs/02.jpg",
+        "text": "Project execution",
+        "desc": "It is necessary to work on designing a commercial identity that is appropriate to the idea of your investment project, as work is done on the success of the commercial identity based on the colors that are used, and the work team is keen to design an integrated identity that has appropriate colors that draws attention to you and suits your investment project very precisely. This concerns the shape of the lines. And work to analyze it appropriately, as well as the ability to complete it appropriately, as well as the ability to analyze your ideas in the appropriate manner. Which brings you great success. Which makes it easier for you to provide a suitable business identity for your idea.",
+        "link": "/project_execution"
+      },
+      {
+        "tip": "03",
+        "image": "./imgs/03.jpg",
+        "text": "Handover the project",
+        "desc": "After completing all the modifications that the client desires, we deliver the final form and final concept of the corporate visual identity or the complete commercial identity by adhering to all quality standards in design, and then we begin to use the components and elements of the commercial identity in optimal use.",
+        "link": "/handover_the_project"
+      }
+    ]
+  },
+  "spanishContentSec4": {
+    "heading": "Nuestro proyecto pasa por 3 etapas básicas",
+    "linkheading": "Más",
+    "items": [
+      {
+        "tip": "01",
+        "image": "./imgs/01.jpg",
+        "text": "estudio del proyecto",
+        "desc": "La identidad comercial en su diseño necesita de un estudio analítico del mercado y de la competencia, como por ejemplo un estudio de viabilidad de un sitio web, es una etapa de investigación que permite conocer el futuro de la identidad comercial identificando y estudiando el mercado y todos competidores, sus experiencias, cómo tuvieron éxito y los obstáculos que enfrentaron. Esta etapa es para comprender los problemas que afectarán a la marca y su éxito. Este paso es extremadamente importante en todas las etapas del diseño de una identidad comercial, ya que la inmersión en el mercado le ayudará enormemente a comprender el entorno de la identidad comercial en el futuro y lo que afectará su éxito y prosperidad.",
+        "link": "/project_study"
+      },
+      {
+        "tip": "02",
+        "image": "./imgs/02.jpg",
+        "text": "Ejecución del proyecto",
+        "desc": "Es necesario trabajar en el diseño de una identidad comercial que sea adecuada a la idea de su proyecto de inversión, ya que se trabaja en el éxito de la identidad comercial en base a los colores que se utilizan, y el equipo de trabajo está interesado en diseñar. una identidad integrada que tiene colores adecuados, que llama la atención y se adapta con precisión a tu proyecto de inversión. Se trata de la forma de las líneas. Y trabajar para analizarlo adecuadamente, así como la capacidad de completarlo adecuadamente, así como la capacidad de analizar sus ideas de la manera adecuada. Lo que te trae un gran éxito. Lo que le facilita proporcionar una identidad comercial adecuada a su idea.",
+        "link": "/project_execution"
+      },
+      {
+        "tip": "03",
+        "image": "./imgs/03.jpg",
+        "text": "Entregar el proyecto",
+        "desc": "Luego de realizar todas las modificaciones que el cliente desee, entregamos la forma final y el concepto final de la identidad visual corporativa o la identidad comercial completa apegándonos a todos los estándares de calidad en diseño, y luego comenzamos a utilizar los componentes y elementos del comercial. identidad en uso óptimo.",
+        "link": "/handover_the_project"
+      }
+    ]
+  },
+  "italianContentSec4": {
+    "heading": "Il nostro progetto passa attraverso 3 fasi fondamentali",
+    "linkheading": "Di più",
+    "items": [
+      {
+        "tip": "01",
+        "image": "./imgs/01.jpg",
+        "text": "Studio del progetto",
+        "desc": "Nel suo design, l'identità commerciale necessita di uno studio analitico del mercato e dei concorrenti, simile a uno studio di fattibilità per un sito web. È una fase di ricerca che ti permette di conoscere il futuro dell'identità commerciale identificando e studiando il mercato e tutti i concorrenti, le loro esperienze, come hanno avuto successo e gli ostacoli che hanno affrontato. Questa fase serve a comprendere i fattori che influenzeranno il brand e il suo successo. Questo passo è estremamente importante in tutte le fasi di progettazione di un'identità commerciale, poiché l'immersione nel mercato ti aiuterà notevolmente a capire l'ambiente futuro dell'identità commerciale e ciò che influenzerà il suo successo e la sua prosperità.",
+        "link": "/project_study"
+      },
+      {
+        "tip": "02",
+        "image": "./imgs/02.jpg",
+        "text": "Esecuzione del progetto",
+        "desc": "È necessario lavorare sulla progettazione di un'identità commerciale adeguata all'idea del tuo progetto d'investimento, lavorando sul successo dell'identità commerciale basandosi sui colori utilizzati. Il team di lavoro si impegna a progettare un'identità integrata con colori appropriati che attirino l'attenzione e si adattino perfettamente al tuo progetto d'investimento. Questo riguarda anche la forma delle linee e l'analisi corretta di esse, nonché la capacità di completare e analizzare le tue idee nel modo più adeguato. Questo ti porterà un grande successo e renderà più facile fornire un'identità commerciale adatta alla tua idea.",
+        "link": "/project_execution"
+      },
+      {
+        "tip": "03",
+        "image": "./imgs/03.jpg",
+        "text": "Consegna del progetto",
+        "desc": "Dopo aver completato tutte le modifiche richieste dal cliente, consegniamo la forma finale e il concetto definitivo dell'identità visiva aziendale o dell'identità commerciale completa rispettando tutti gli standard di qualità nel design, iniziando poi a utilizzare al meglio tutti i componenti ed elementi dell'identità commerciale.",
+        "link": "/handover_the_project"
+      }
+    ]
+  },
+  "arabicContentSec5": {
+    "heading": "لدينا قصص نجاح كثيره مع عملائنا",
+    "all": "الجميع",
+    "items": [
+      {
+        "name": "مودرن هووم",
+        "image": "./imgs/web1.png",
+        "type": "تصميم مواقع"
+      },
+      {
+        "name": "مؤسسة بيت الارزاق",
+        "image": "./imgs/web2.png",
+        "type": "تصميم مواقع"
+      },
+      {
+        "name": "مؤسسة دار المصاقير",
+        "image": "./imgs/web3.png",
+        "type": "تصميم مواقع"
+      },
+      {
+        "name": "مؤسسة فن الطبيعة",
+        "image": "./imgs/web4.png",
+        "type": "تصميم مواقع"
+      },
+      {
+        "name": "ميديافيك",
+        "image": "./imgs/web5.png",
+        "type": "تصميم مواقع"
+      },
+      {
+        "name": "سمارت كلين",
+        "image": "./imgs/soc1.jpg",
+        "type": "التسويق الالكتروني"
+      },
+      {
+        "name": "لافندر روز",
+        "image": "./imgs/soc2.jpg",
+        "type": "التسويق الالكتروني"
+      },
+      {
+        "name": "شركة العطاء",
+        "image": "./imgs/soc3.jpg",
+        "type": "التسويق الالكتروني"
+      },
+      {
+        "name": "مؤسسة دار المصاقير",
+        "image": "./imgs/soc4.jpg",
+        "type": "التسويق الالكتروني"
+      },
+      {
+        "name": "بيتزا ذا بيست",
+        "image": "./imgs/soc5.jpg",
+        "type": "التسويق الالكتروني"
+      },
+      {
+        "name": "هوية شركة اوبشن ترافيل سيرفر",
+        "image": "./imgs/des1.jpg",
+        "type": "تصميم الهويه"
+      },
+      {
+        "name": "هوية شركة فالكون سبايس",
+        "image": "./imgs/des2.jpg",
+        "type": "تصميم الهويه"
+      },
+      {
+        "name": "هوية شركة دار الخليج",
+        "image": "./imgs/des3.jpg",
+        "type": "تصميم الهويه"
+      },
+      {
+        "name": "هوية شركة روافد التعليمية",
+        "image": "./imgs/des4.jpg",
+        "type": "تصميم الهويه"
+      },
+      {
+        "name": "هوية شركة النيل",
+        "image": "./imgs/des5.jpg",
+        "type": "تصميم الهويه"
+      }
+    ]
+  },
+  "englishContentSec5": {
+    "heading": "We have many success stories with our clients",
+    "all": "All",
+    "items": [
+      {
+        "name": "Modern Home",
+        "image": "./imgs/web1.png",
+        "type": "Web Design"
+      },
+      {
+        "name": "Beit Al-Rizaq Foundation",
+        "image": "./imgs/web2.png",
+        "type": "Web Design"
+      },
+      {
+        "name": "Dar Al-Masaqir Foundation",
+        "image": "./imgs/web3.png",
+        "type": "Web Design"
+      },
+      {
+        "name": "Nature Art Foundation",
+        "image": "./imgs/web4.png",
+        "type": "Web Design"
+      },
+      {
+        "name": "mediavik",
+        "image": "./imgs/web5.png",
+        "type": "Web Design"
+      },
+      {
+        "name": "Smart Clean",
+        "image": "./imgs/soc1.jpg",
+        "type": "Digital Marketing"
+      },
+      {
+        "name": "lavender Rose",
+        "image": "./imgs/soc2.jpg",
+        "type": "Digital Marketing"
+      },
+      {
+        "name": "Al-Ataa Company",
+        "image": "./imgs/soc3.jpg",
+        "type": "Digital Marketing"
+      },
+      {
+        "name": "Dar Al-Masaqir Foundation",
+        "image": "./imgs/soc4.jpg",
+        "type": "Digital Marketing"
+      },
+      {
+        "name": "The Best Pizza",
+        "image": "./imgs/soc5.jpg",
+        "type": "Digital Marketing"
+      },
+      {
+        "name": "Option Travel Server company",
+        "image": "./imgs/des1.jpg",
+        "type": "Identity Design"
+      },
+      {
+        "name": "Falcon Space corporate",
+        "image": "./imgs/des2.jpg",
+        "type": "Identity Design"
+      },
+      {
+        "name": "Dar Al Khaleej Company",
+        "image": "./imgs/des3.jpg",
+        "type": "Identity Design"
+      },
+      {
+        "name": "Rawafed Educational Company",
+        "image": "./imgs/des4.jpg",
+        "type": "Identity Design"
+      },
+      {
+        "name": "the Nile Company",
+        "image": "./imgs/des5.jpg",
+        "type": "Identity Design"
+      }
+    ]
+  },
+  "spanishContentSec5": {
+    "heading": "Tenemos muchos casos de éxito con nuestros clientes.",
+    "all": "Todo",
+    "items": [
+      {
+        "name": "Hogar moderno",
+        "image": "./imgs/web1.png",
+        "type": "Diseño web"
+      },
+      {
+        "name": "Fundación Beit Al-Rizaq",
+        "image": "./imgs/web2.png",
+        "type": "Diseño web"
+      },
+      {
+        "name": "Fundación Dar Al-Masaqir",
+        "image": "./imgs/web3.png",
+        "type": "Diseño web"
+      },
+      {
+        "name": "Fundación de Arte de la Naturaleza",
+        "image": "./imgs/web4.png",
+        "type": "Diseño web"
+      },
+      {
+        "name": "mediavik",
+        "image": "./imgs/web5.png",
+        "type": "Diseño web"
+      },
+      {
+        "name": "Limpia, acogedora",
+        "image": "./imgs/soc1.jpg",
+        "type": "Publicidad digital"
+      },
+      {
+        "name": "lavanda rosa",
+        "image": "./imgs/soc2.jpg",
+        "type": "Publicidad digital"
+      },
+      {
+        "name": "Compañía Al-Ataa",
+        "image": "./imgs/soc3.jpg",
+        "type": "Publicidad digital"
+      },
+      {
+        "name": "Fundación Dar Al-Masaqir",
+        "image": "./imgs/soc4.jpg",
+        "type": "Publicidad digital"
+      },
+      {
+        "name": "La mejor pizza",
+        "image": "./imgs/soc5.jpg",
+        "type": "Publicidad digital"
+      },
+      {
+        "name": "Empresa Option Travel Server",
+        "image": "./imgs/des1.jpg",
+        "type": "Diseño de Identidad"
+      },
+      {
+        "name": "Falcon Space corporativo",
+        "image": "./imgs/des2.jpg",
+        "type": "Diseño de Identidad"
+      },
+      {
+        "name": "Compañía Dar Al Khaleej",
+        "image": "./imgs/des3.jpg",
+        "type": "Diseño de Identidad"
+      },
+      {
+        "name": "Empresa Educativa Rawafed",
+        "image": "./imgs/des4.jpg",
+        "type": "Diseño de Identidad"
+      },
+      {
+        "name": "la compañía del nilo",
+        "image": "./imgs/des5.jpg",
+        "type": "Diseño de Identidad"
+      }
+    ]
+  },
+  "italianContentSec5": {
+    "heading": "Abbiamo molte storie di successo con i nostri clienti",
+    "all": "Tutti",
+    "items": [
+      {
+        "name": "Modern Home",
+        "image": "./imgs/web1.png",
+        "type": "Design Web"
+      },
+      {
+        "name": "Beit Al-Rizaq Foundation",
+        "image": "./imgs/web2.png",
+        "type": "Design Web"
+      },
+      {
+        "name": "Dar Al-Masaqir Foundation",
+        "image": "./imgs/web3.png",
+        "type": "Design Web"
+      },
+      {
+        "name": "Nature Art Foundation",
+        "image": "./imgs/web4.png",
+        "type": "Design Web"
+      },
+      {
+        "name": "mediavik",
+        "image": "./imgs/web5.png",
+        "type": "Design Web"
+      },
+      {
+        "name": "Smart Clean",
+        "image": "./imgs/soc1.jpg",
+        "type": "Marketing Digitale"
+      },
+      {
+        "name": "lavender Rose",
+        "image": "./imgs/soc2.jpg",
+        "type": "Marketing Digitale"
+      },
+      {
+        "name": "Al-Ataa Company",
+        "image": "./imgs/soc3.jpg",
+        "type": "Marketing Digitale"
+      },
+      {
+        "name": "Dar Al-Masaqir Foundation",
+        "image": "./imgs/soc4.jpg",
+        "type": "Marketing Digitale"
+      },
+      {
+        "name": "The Best Pizza",
+        "image": "./imgs/soc5.jpg",
+        "type": "Marketing Digitale"
+      },
+      {
+        "name": "Option Travel Server company",
+        "image": "./imgs/des1.jpg",
+        "type": "Design dell'identità"
+      },
+      {
+        "name": "Falcon Space corporate",
+        "image": "./imgs/des2.jpg",
+        "type": "Design dell'identità"
+      },
+      {
+        "name": "Dar Al Khaleej Company",
+        "image": "./imgs/des3.jpg",
+        "type": "Design dell'identità"
+      },
+      {
+        "name": "Rawafed Educational Company",
+        "image": "./imgs/des4.jpg",
+        "type": "Design dell'identità"
+      },
+      {
+        "name": "the Nile Company",
+        "image": "./imgs/des5.jpg",
+        "type": "Design dell'identità"
+      }
+    ]
+  },
+  "arabicContentSec6": {
+    "heading": "فريق عملنا",
+    "items": [
+      {
+        "name": "Marwan Abdelghany",
+        "image": "./imgs/marwan.jpg",
+        "position": "مطور رئيسي"
+      },
+      {
+        "name": "Karim Abdelghanhy",
+        "image": "./imgs/karim.jpg",
+        "position": "مدير المشروعات"
+      },
+      {
+        "name": "Hosam Jamal",
+        "image": "./imgs/hosam.jpg",
+        "position": "مصمم منتجات"
+      }
+    ]
+  },
+  "englishContentSec6": {
+    "heading": "Our team",
+    "items": [
+      {
+        "name": "Marwan Abdelghany",
+        "image": "./imgs/marwan.jpg",
+        "position": "Lead Developer"
+      },
+      {
+        "name": "Karim Abdelghanhy",
+        "image": "./imgs/karim.jpg",
+        "position": "Project Manager"
+      },
+      {
+        "name": "Hosam Jamal",
+        "image": "./imgs/hosam.jpg",
+        "position": "Product Designer"
+      }
+    ]
+  },
+  "spanishContentSec6": {
+    "heading": "Nuestro equipo",
+    "items": [
+      {
+        "name": "Marwan Abdelghany",
+        "image": "./imgs/marwan.jpg",
+        "position": "Desarrollador Principal"
+      },
+      {
+        "name": "Karim Abdelghanhy",
+        "image": "./imgs/karim.jpg",
+        "position": "Gerente de Proyecto"
+      },
+      {
+        "name": "Hosam Jamal",
+        "image": "./imgs/hosam.jpg",
+        "position": "Diseñador de Productos"
+      }
+    ]
+  },
+  "italianContentSec6": {
+    "heading": "Il nostro team",
+    "items": [
+      {
+        "name": "Marwan Abdelghany",
+        "image": "./imgs/marwan.jpg",
+        "position": "Sviluppatore Capo"
+      },
+      {
+        "name": "karim Abdelghanhy",
+        "image": "./imgs/karim.jpg",
+        "position": "Responsabile del Progetto"
+      },
+      {
+        "name": "Hosam Jamal",
+        "image": "./imgs/hosam.jpg",
+        "position": "Progettista di Prodotti"
+      }
+    ]
+  },
+  "arabicContentSec7": {
+    "heading": "تواصل معنا",
+    "items": {
+      "name": "الاسم",
+      "email": "الايميل",
+      "title": "عنوان الموضوع",
+      "subject": "الموضوع",
+      "btn": "ارسال"
+    }
+  },
+  "englishContentSec7": {
+    "heading": "Connect with us",
+    "items": {
+      "name": "Name",
+      "email": "Email",
+      "title": "Project Title",
+      "subject": "Project Description",
+      "btn": "Send"
+    }
+  },
+  "spanishContentSec7": {
+    "heading": "Conecta con nosotros",
+    "items": {
+      "name": "Nombre",
+      "email": "Correo electrónico",
+      "title": "Título del Proyecto",
+      "subject": "Descripción del Proyecto",
+      "btn": "Enviar"
+    }
+  },
+  "italianContentSec7": {
+    "heading": "Contattaci",
+    "items": {
+      "name": "Nome",
+      "email": "Email",
+      "title": "Titolo del progetto",
+      "subject": "Descrizione del progetto",
+      "btn": "Invia"
+    }
+  },
+  "arabicFooter": {
+    "heading1": "اعرف عننا",
+    "heading2": "تواصل معنا",
+    "items": {
+      "headaddress": "العنوان",
+      "address": "via popoli uniti ,20, Milan, Italy",
+      "headphone": "الرقم والايميل",
+      "phone": "+20 100 330 1021/+39 328 488 5168"
+    }
+  },
+  "englishFooter": {
+    "heading1": "About Us",
+    "heading2": "Contact Info",
+    "items": {
+      "headaddress": "address",
+      "address": "via popoli uniti ,20, Milan, Italy",
+      "headphone": "Phone and Email",
+      "phone": "+20 100 330 1021/+39 328 488 5168"
+    }
+  },
+  "spanishFooter": {
+    "heading1": "Sobre nosotros",
+    "heading2": "Datos de contacto",
+    "items": {
+      "headaddress": "DIRECCIÓN",
+      "address": "via popoli uniti ,20, Milan, Italy",
+      "headphone": "Teléfono y correo electrónico",
+      "phone": "+20 100 330 1021/+39 328 488 5168"
+    }
+  },
+  "italianFooter": {
+    "heading1": "Chi siamo",
+    "heading2": "Informazioni di contatto",
+    "items": {
+      "headaddress": "Indirizzo",
+      "address": "via popoli uniti ,20, Milan, Italy",
+      "headphone": "Telefono ed Email",
+      "phone": "+20 100 330 1021/+39 328 488 5168"
+    }
+  }
+}
