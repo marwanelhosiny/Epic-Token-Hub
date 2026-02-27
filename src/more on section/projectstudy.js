@@ -29,7 +29,7 @@ const Projectstudy = () => {
               <img
                 src={image1}
                 className="col-12 mmor-auto my-2 col-lg-6 my-5"
-                alt="image"
+                alt="Navro"
               />
             </div>
             <p className="fs-5 fw-light">{items[0].desc}</p>
